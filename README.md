@@ -9,5 +9,8 @@ The schematic printed in PDF is distributed under CC BY-SA 3.0, but the actual G
 ## v 0.3 (2023-08-11)
 [BillMock-HW-0v3.pdf](sch/BillMock-HW-0v3.pdf)
 
-## v 0.4 (2023-08-30)
+## v 0.4 (2023-09-08)
 [BillMock-HW-0v4.pdf](sch/BillMock-HW-0v4.pdf)
+
+## SWD Debugger Adapter
+[Schematic - BillMock-SWDAdapter-HW.pdf](sch/BillMock-SWDAdapter-HW.pdf)
