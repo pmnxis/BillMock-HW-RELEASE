@@ -14,3 +14,5 @@ The schematic printed in PDF is distributed under CC BY-SA 3.0, but the actual G
 
 ## SWD Debugger Adapter
 [Schematic - BillMock-SWDAdapter-HW.pdf](sch/BillMock-SWDAdapter-HW.pdf)
+
+More information or gerbers files here [Debug Adapter](./debug.md)
