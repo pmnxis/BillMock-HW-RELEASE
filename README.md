@@ -30,6 +30,18 @@ The schematic printed in PDF is distributed under CC BY-SA 3.0, but the actual G
 - In comparison to the previous hardware, the size has decreased (65x65 mm -> 75x45 mm), and we have removed infrequently used connectors in the actual usage case. (Mass-production BOM cost considered)
 - EEPROM added
 
+
+## v 0.4 Mini (2023-10-24)
+
+| top side | bottom side |
+| ---- | ---- |
+| ![BillMock-Mini-HW-0v5-Top](img/pcb_top_mini_0v5.png) | ![BillMock-Mini-HW-0v5-Bottom](img/pcb_bot_mini_0v4.png) |
+
+[BillMock-Mini-HW-0v5.pdf](sch/BillMock-Mini-HW-0v5.pdf)
+
+- Tact Switch added added
+
+
 ## SWD Debugger Adapter
 [Schematic - BillMock-SWDAdapter-HW.pdf](sch/BillMock-SWDAdapter-HW.pdf)
 
