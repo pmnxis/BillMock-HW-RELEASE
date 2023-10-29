@@ -31,7 +31,7 @@ The schematic printed in PDF is distributed under CC BY-SA 3.0, but the actual G
 - EEPROM added
 
 
-## v 0.4 Mini (2023-10-24)
+## v 0.5 Mini (2023-10-24)
 
 | top side | bottom side |
 | ---- | ---- |
